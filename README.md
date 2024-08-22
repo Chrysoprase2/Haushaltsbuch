@@ -2,6 +2,7 @@
 Dieses Programm gibt Buchungen aus, die es aus einer CSV-Datei einließt. 
 Über eine JSON-Datei können Kategorien und Inhaber bearbeitet oder hinzugefügt werden.
 Eine kleine GUI ist implementiert für:
+-  
     - Oberfläche
     - Tabellarische Auflistung der Buchungen
     - Graph für den Kontostandsverlauf
