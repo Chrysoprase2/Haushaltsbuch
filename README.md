@@ -2,7 +2,8 @@
 Dieses Programm gibt Buchungen aus, die es aus einer CSV-Datei einließt. 
 Über eine JSON-Datei können Kategorien und Inhaber bearbeitet oder hinzugefügt werden.
 In personalUI.py findet sich die neue UI, userInterface.py ist die alte UI.
--  Änderungen beihalten: 
+- Programm beinhaltet: 
+-
     - Oberfläche
     - Tabellarische Auflistung der Buchungen
     - Graph für den Kontostandsverlauf
