@@ -16,11 +16,11 @@ In personalUI.py findet sich die neue UI, userInterface.py ist die alte UI.
 - kleinere Programmierübungen sind in StartUp.py nach Abschluss stehen gelassen worden
 
 # Änderungen
-- neues UI
-  - Tabellenauflistung
-  - Scrollfunktionalität
-  - ein kleines Startbild, das als Platzhalter dient, bis ein Button geklickt wurde
+- **neues UI**
+  - **Tabellenauflistung**
+  - **Scrollfunktionalität**
+  - ein kleines **Startbild**, das als Platzhalter dient, bis ein Button geklickt wurde
     
-- Funktionalitäten:
-  - Suchfunktion: Teilstring wird über ein Textfeld eingegeben. Nach dem Klick auf "Suchen", wird jedes Element, das den eingegebenen String als Teilstring enthält ausgegeben. Relevante Attribute sind Datum, Inhaber und Betreff.
-  - Filterfunktion: Möglichkeit nach Kategorien zu filtern. Kategorien sind via Radiobuttons auswählbar. Klickt man auf "Buchungen filtern", ohne einen Radiobutton gewählt zu haben, wird das Fenster gecleart. Buttons bleiben. 
+- **Funktionalitäten:**
+  - **Suchfunktion**: Teilstring wird über ein Textfeld eingegeben. Nach dem Klick auf "Suchen", wird jedes Element, das den eingegebenen String als Teilstring enthält ausgegeben. Relevante Attribute sind Datum, Inhaber und Betreff.
+  - **Filterfunktion**: Möglichkeit nach Kategorien zu filtern. Kategorien sind via Radiobuttons auswählbar. Klickt man auf "Buchungen filtern", ohne einen Radiobutton gewählt zu haben, wird das Fenster gecleart. Buttons bleiben. 
